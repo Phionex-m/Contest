@@ -14,6 +14,7 @@ int main(){
     cout << m << "\n";
     cout << b << "\n";
     cout << n << "\n";
+    
     system("pause");
     
     return 0;

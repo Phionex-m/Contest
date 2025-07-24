@@ -8,7 +8,7 @@ int main(){
     int D = 1;
     double x = (A*B)-(C*D);
 
-    cout<<"Difference = "<< x <<"";
+    cout<<"Difference = "<< x <<"\n";
     system("pause");
     
     return 0;
