@@ -1,1 +1,0 @@
-My codeforces profile : https://codeforces.com/profile/Mary.pheonix
