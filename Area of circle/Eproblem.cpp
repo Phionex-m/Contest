@@ -1,12 +1,17 @@
 #include <iostream>
+#include <cmath>
+#include <iomanip>
 using namespace std;
 
 int main() {
-    double pi =3.14;
-    double R = 4; 
+    cout << fixed <<setprecision(9);
     
-   cout<<pi *R*R <<"\n";
-    system("pause");
+    const double pi = acos(-1); 
+    double R;
+    cin >> R;
+    double Area = pi * R * R ; 
+    cout << Area <<"\n";
 
     return 0;
+
 }

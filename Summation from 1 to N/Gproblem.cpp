@@ -3,41 +3,11 @@ using namespace std;
 
 int main() {
 
-    int N =5;
-    double result =1;
-
-     if (N==0||N==1)
-{
-     result = 1;
-    cout<< result<<"\n";
-    
-    }
+    long long   N ;
+    cin>> N ;
      
-    else if (N>0)
-{
-
- for (int i =1; i<=N ; ++i)
-
- {
- result *= i;
-
-}
-
-cout << result<<"\n";
-
-}
-
-    else
-{
-
- cout<<"Negative number not have factorial";
-
- }
+   long long sum = N*(N+1)/2;
  
-    
-    
-    
-    system("pause");
-
+cout<< sum <<"\n ";
     return 0;
 }

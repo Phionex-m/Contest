@@ -1,9 +1,12 @@
 #include <iostream>
+
 using namespace std;
 
 int main(){
-string S ="Programming";
-cout<<"Hello,"<<S<<"\n";
-system("pause");
+string S  ;
+cin >> S ;
+
+cout<<"Hello, "<<S<<"\n";
+
     return 0;
 }
