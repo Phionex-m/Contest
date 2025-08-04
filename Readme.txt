@@ -44,4 +44,4 @@ I made an application that take two numbers from the user if the first number  m
 
 L- Brothers \
 
-I made an application that show if the two person is brother or not and it's by comparing the second name of the first person and the second named of the second person
+I made an application that show if the two person is brother or not and it's by comparing the second name of the first person and the second named of the second person 
