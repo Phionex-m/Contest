@@ -69,5 +69,27 @@ I made an application that take two numbers from the user if the first number  m
 
 I made an application that show if the two person is brother or not and it's by comparing the second name of the first person and the second named of the second person
 
+###### M-Capital or Small or Digit //
+
+I made an application that takes from the user a character and I told him if it digit or alpha and if it alpha I told him if it small or capital 
+
+######## N-Char //
+
+I made an application that transfer the letters from the upper case to lower and vise versa
+
+######## O-Calculator //
+
+I made a calculator for th basic operation but in different way the user input the whole operation like this (3+2) and I show the result only for you 
+
+########## Q. Coordinates of a Point //
+
+I made an application that give the user the quarant of the point lie in by using if condition 
+
+
+########## R. Age in Days //
+
+I made an application that takes from the user the age by daus an the application give the age wiyh years , days an months 
+
+
 
 
