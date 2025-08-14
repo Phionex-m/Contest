@@ -1,5 +1,7 @@
 My codeforces profile : https://codeforces.com/profile/Mary.pheonix
 
+NOTE : system("pause") it is not important you can remove it 
+
 
 
 ### Explaination about these problems :
