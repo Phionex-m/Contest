@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Workshop/Contest/T. Sort Numbers",
-      "program": "d:/Workshop/Contest/T. Sort Numbers/build/Debug/outDebug",
+      "cwd": "d:/Workshop/Contest/S. Interval",
+      "program": "d:/Workshop/Contest/S. Interval/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

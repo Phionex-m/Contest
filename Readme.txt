@@ -1,8 +1,7 @@
 My codeforces profile : https://codeforces.com/profile/Mary.pheonix
 
 NOTE : system("pause") it is not important you can remove it 
-
-
+Note : The explaination of the problems not by the  order .
 
 ### Explaination about these problems :
 
@@ -93,5 +92,33 @@ I made an application that give the user the quarant of the point lie in by usin
 I made an application that takes from the user the age by daus an the application give the age wiyh years , days an months 
 
 
+##### Problems (V _ W _ Y _ Z _ T ) this problems explain itself
+
+##########  U. Float or int //
+
+This problem wants from me to show if the number which the user integer or float if it integer I print  it's integer and print the integer part if it float I print it's float and print the integer part then the float part I use casting in it to ease the solution
+
+######## X. Two intervals //
+
+This problem wants from me to found the intersection of the interval 
 
 
+The intersection of the intervals 
+
+We calculate the the max value of the starting point and then calculate the min of the end 
+
+If the max smaller  than or equal min then the intersection is the max value and the min value  
+
+If no intersection print -1
+
+Example 1. *First Example (1 15 5 27)*:
+   - max_start = max(1,5) = 5
+   - min_end = min(15,27) = 15
+   - 5 ≤ 15 → intersection exists: "5 15"
+
+Max min : #include < algorithm > 
+
+
+########### S. Interval //
+
+The problem wants from me to reach the intervals which the program specify
